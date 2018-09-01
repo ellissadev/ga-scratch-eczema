@@ -104,9 +104,6 @@ $ ('#hamburger').click(function(){
 });
 
 
-
-
-
 	
 	$(document).ready(function(){
     	$("#expand1").click(function(){

@@ -484,7 +484,9 @@ a{
 	margin-bottom: 30px;
 }
 
-
+.contact-form #expand1 {
+	cursor: pointer;
+}
 .e-form {
    display: flex;
    flex-direction: row;
