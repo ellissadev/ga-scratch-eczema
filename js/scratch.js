@@ -78,7 +78,7 @@ $('#logo').click(function(){
 
 $("#menu3").click(function(){
   $('html, body').animate({
-    scrollTop: $('.contact-form').offset().top -140
+    scrollTop: $('.contact-form').offset().top -130
   }, 1200);
   
 } );
