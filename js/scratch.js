@@ -103,7 +103,7 @@ $ ('#hamburger').click(function(){
 
 });
 
-
+$(document).ready(function(){
 	$('#answer1').hide ();
 
     // $("#expand1").click(function(){
