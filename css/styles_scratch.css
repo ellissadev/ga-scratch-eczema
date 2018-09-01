@@ -496,8 +496,8 @@ a{
    margin-right: 8px;
    padding: 4px;
    margin-top: -4px;
-  border:dotted 1px #ff9d75;
-    background-color: #fff;
+   border:dotted 1px #ff9d75;
+   background-color: #fff;
  }
 
 
@@ -505,18 +505,15 @@ a{
 
 footer {
 	background-color: #F0F8FF;
-	padding:15px;
-	padding-bottom:0px;
 	color:white;
 
 }
 
 .copyright {	
-		float:right;
-		font-size:15px;
-		margin-top:40px;
-		padding-bottom:0px;
-		color:black;
+	float:right;
+	font-size:15px;
+	margin-top:40px;
+	color:black;
 }
 /*xs= 576 px width
 sm=768 px width
