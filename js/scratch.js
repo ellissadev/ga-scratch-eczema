@@ -103,12 +103,14 @@ $ ('#hamburger').click(function(){
 
 });
 
-$(document).ready(function(){
-	$('.answer1').hide ();
 
-    // $("#expand1").click(function(){
-    //     $("#answer1").slideToggle();
-        // $('#expand1').toggleClass('turn-down');
+
+
+	$('.answer').hide ();
+
+    $("#expand1").click(function(){
+        $(".answer").slideToggle();
+
     });
 
 
