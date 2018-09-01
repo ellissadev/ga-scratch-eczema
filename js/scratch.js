@@ -109,7 +109,7 @@ $ ('#hamburger').click(function(){
     // $("#expand1").click(function(){
     //     $("#answer1").slideToggle();
         // $('#expand1').toggleClass('turn-down');
-    // });
+    });
 
 
 
