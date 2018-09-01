@@ -105,7 +105,7 @@ $ ('#hamburger').click(function(){
 
 
 
-
+$(document).ready(function(){
 	$('.answer').hide ();
 
     	$("#expand1").click(function(){
@@ -114,6 +114,7 @@ $ ('#hamburger').click(function(){
 
     });
 
+});
 
 
 // $( "button" ).click(function() {
