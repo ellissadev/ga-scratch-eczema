@@ -106,9 +106,11 @@ $ ('#hamburger').click(function(){
 
 
 
-	$('.answer1').hide ();
+
+	
 	$(document).ready(function(){
     	$("#expand1").click(function(){
+    	$('.answer1').hide ();
         $(".answer1").slideToggle();
         $('#expand1').toggleClass('turn-down');
 
