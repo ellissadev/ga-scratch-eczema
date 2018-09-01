@@ -105,18 +105,6 @@ $ ('#hamburger').click(function(){
 
 
 
-$(document).ready(function(){
-	$('.answer').hide ();
-
-    	$("#expand1").click(function(){
-        $(".answer").slideToggle();
-        $('#expand1').toggleClass('turn-down');
-
-    });
-
-});
-
-
 // $( "button" ).click(function() {
 //   $( "#pic0" ).slideUp( 300 ).delay( 800 ).fadeIn( 400 );
 //   $( "pic1" ).slideUp( 300 ).fadeIn( 400 );
