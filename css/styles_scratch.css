@@ -501,7 +501,7 @@ a{
    background-color: #fff;
  }
 
-.eform > button {
+form > button {
 	cursor:pointer;
 }
 
