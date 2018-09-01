@@ -506,6 +506,7 @@ a{
 footer {
 	background-color: #F0F8FF;
 	padding:15px;
+	padding-bottom:0px;
 	color:white;
 
 }
@@ -514,7 +515,6 @@ footer {
 		float:right;
 		font-size:15px;
 		margin-top:40px;
-		margin-bottom:0px;
 		padding-bottom:0px;
 		color:black;
 }
