@@ -483,6 +483,12 @@ a{
 .contact-form form {
 	margin-bottom: 30px;
 }
+
+
+.contact-form button {
+	cursor:pointer;
+}
+
 .e-form {
    display: flex;
    flex-direction: row;
@@ -501,9 +507,7 @@ a{
    background-color: #fff;
  }
 
-form > button {
-	cursor:pointer;
-}
+
 
 
 
