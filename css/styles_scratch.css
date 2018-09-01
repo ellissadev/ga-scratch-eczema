@@ -485,10 +485,6 @@ a{
 }
 
 
-.submit-but {
-	cursor:pointer;
-}
-
 .e-form {
    display: flex;
    flex-direction: row;
@@ -506,6 +502,10 @@ a{
    border:dotted 1px #ff9d75;
    background-color: #fff;
  }
+
+.submit-but {
+	cursor:pointer;
+}
 
 
 footer {
