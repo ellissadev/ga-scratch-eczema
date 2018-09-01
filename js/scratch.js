@@ -108,8 +108,9 @@ $ ('#hamburger').click(function(){
 
 	$('.answer').hide ();
 
-    $("#expand1").click(function(){
+    	$("#expand1").click(function(){
         $(".answer").slideToggle();
+        $('#expand1').toggleClass('turn-down');
 
     });
 
